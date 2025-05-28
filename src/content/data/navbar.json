@@ -1,15 +1,15 @@
 {
   "pages": [
     {
-      "name": "Home",
+      "name": "Accueil",
       "link": "/"
     },
     {
-      "name": "About",
+      "name": "A propos",
       "link": "/about"
     },
     {
-      "name": "Projects",
+      "name": "Projets",
       "link": "/projects"
     }
   ]

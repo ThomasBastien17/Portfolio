@@ -104,7 +104,7 @@ body {
 }
 
 .custom-gradient {
-  background: linear-gradient(45deg, #3b82f6 0%, #8b5cf6 47.5%, #ec4899 95%);
+  background: linear-gradient(45deg, #141e30 0%, #243b55 47.5%, #141e30 95%);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
