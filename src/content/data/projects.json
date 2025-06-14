@@ -11,6 +11,18 @@
         "text": "Voir le site",
         "link": "https://space-cowboys-plum.vercel.app/"
       }
+    },
+    {
+      "name": "RPG Dragon Repeller",
+      "description": "Premier projet réalisé dans le cadre de ma découverte du développement web, à travers la plateforme FreeCodeCamp. Il m’a permis de me familiariser avec les langages HTML, CSS et JavaScript, et de comprendre les bases de la création d’une page web interactive.",
+      "link": "https://github.com/ThomasBastien17/Rpg-Game",
+      "langs": "JavaScript,HTML,CSS",
+      "tools": "",
+      "date": "Décembre 2023",
+      "custom": {
+        "text": "Voir le site",
+        "link": "https://rpg-game-six.vercel.app/"
+      }
     }
   ]
 }
