@@ -23,6 +23,18 @@
         "text": "Voir le site",
         "link": "https://rpg-game-six.vercel.app/"
       }
+    },
+     {
+      "name": "Poke-Next",
+      "description": "Création d’un Pokédex interactif avec Next.js et Tailwind CSS, utilisant l’API Tyradex (en français) pour récupérer les données des Pokémon. L’application permet de filtrer les Pokémon par type ou génération, de les rechercher par nom, et de les afficher dynamiquement, offrant une expérience utilisateur fluide et réactive.",
+      "link": "https://github.com/ThomasBastien17/Poke-next",
+      "langs": "JavaScript,TypeScript",
+      "tools": "",
+      "date": "Juillet 2025 - Present",
+      "custom": {
+        "text": "Voir le site",
+        "link": "https://poke-next-woad-eight.vercel.app/"
+      }
     }
   ]
 }
